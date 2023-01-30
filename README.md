@@ -6,4 +6,4 @@ RF conține un meniu de administrare, care poate fi accesat cu un cont și o par
 
 <a href="http://18.192.103.34/php_RF">Live demo</a>
 
-cont/parola parte administrare: admin/admin
+cont/parola parte administrare: user_adm/admin
